@@ -1,0 +1,124 @@
+{
+  "projectes": [
+    {
+      "projectista": "Ana Coello de Llobet SLP",
+      "districte": "L'Eixample | Sant Martí",
+      "contractista": "Ferrovial Construcción, S.A",
+      "area": "Gerència Àrea d'Ecologia Urbana",
+      "pressupost": "8.902.043,79 €",
+      "tipologia": "Espai Públic",
+      "import": "7.602.043,09 €",
+      "subtipologia": "Vials",
+      "superficie": "19.332 m²",
+      "descripcio": "Millora de la connectivitat verda entre els districtes mitjançant nous vials sostenibles i zones verdes integrades."
+    },
+    {
+      "projectista": "B01 Arquitectes",
+      "districte": "Ciutat Vella",
+      "contractista": "Copcisa, S.A.",
+      "area": "Infraestructures Urbanes",
+      "pressupost": "4.205.100,00 €",
+      "tipologia": "Equipaments",
+      "import": "3.890.000,00 €",
+      "subtipologia": "Escoles",
+      "superficie": "8.500 m²",
+      "descripcio": "Construcció d'un nou centre educatiu amb criteris de sostenibilitat i eficiència energètica."
+    },
+    {
+      "projectista": "Batlle i Roig Arquitectura",
+      "districte": "Sarrià-Sant Gervasi",
+      "contractista": "FCC Construcción",
+      "area": "Gerència Àrea d'Ecologia Urbana",
+      "pressupost": "5.734.920,50 €",
+      "tipologia": "Espai Públic",
+      "import": "5.120.600,30 €",
+      "subtipologia": "Parcs",
+      "superficie": "12.450 m²",
+      "descripcio": "Creació d'un nou parc urbà amb sistemes de recollida d'aigua pluvial i vegetació autòctona adaptada al canvi climàtic."
+    },
+    {
+      "projectista": "BAAS Arquitectura",
+      "districte": "Horta-Guinardó",
+      "contractista": "Dragados, S.A.",
+      "area": "Districte Municipal",
+      "pressupost": "6.320.800,00 €",
+      "tipologia": "Equipaments",
+      "import": "5.980.120,00 €",
+      "subtipologia": "Culturals",
+      "superficie": "4.800 m²",
+      "descripcio": "Rehabilitació integral d'un edifici històric per convertir-lo en centre cultural amb espais polivalents i auditori."
+    },
+    {
+      "projectista": "Comas-Pont Arquitectes",
+      "districte": "Sants-Montjuïc",
+      "contractista": "OHL",
+      "area": "Barcelona d'Infraestructures Municipals",
+      "pressupost": "3.850.600,00 €",
+      "tipologia": "Espai Públic",
+      "import": "3.410.250,00 €",
+      "subtipologia": "Places",
+      "superficie": "6.780 m²",
+      "descripcio": "Remodelació d'una plaça pública amb nou mobiliari urbà, àrees de joc infantils i zones d'ombra natural."
+    },
+    {
+      "projectista": "RCR Arquitectes",
+      "districte": "Les Corts",
+      "contractista": "Sacyr, S.A.",
+      "area": "Gerència d'Habitatge",
+      "pressupost": "12.450.000,00 €",
+      "tipologia": "Habitatge",
+      "import": "11.890.300,00 €",
+      "subtipologia": "Protecció Oficial",
+      "superficie": "9.200 m²",
+      "descripcio": "Construcció d'un edifici de 72 habitatges de protecció oficial amb certificació energètica A i espais comunitaris sostenibles."
+    },
+    {
+      "projectista": "Estudi d'Arquitectura Xavier Vendrell",
+      "districte": "Nou Barris",
+      "contractista": "Comsa Corporation",
+      "area": "Infraestructures Urbanes",
+      "pressupost": "2.840.300,00 €",
+      "tipologia": "Equipaments",
+      "import": "2.580.100,00 €",
+      "subtipologia": "Esportius",
+      "superficie": "5.640 m²",
+      "descripcio": "Ampliació d'un complex esportiu municipal amb noves pistes polivalents i millora de les instal·lacions existents."
+    },
+    {
+      "projectista": "Vora Arquitectura",
+      "districte": "Sant Andreu",
+      "contractista": "Acciona, S.A.",
+      "area": "Barcelona d'Infraestructures Municipals",
+      "pressupost": "7.120.500,00 €",
+      "tipologia": "Equipaments",
+      "import": "6.850.230,00 €",
+      "subtipologia": "Sanitaris",
+      "superficie": "4.100 m²",
+      "descripcio": "Construcció d'un nou centre d'atenció primària amb espais adaptats a les noves necessitats sanitàries i tecnològiques."
+    },
+    {
+      "projectista": "TAC Arquitectes",
+      "districte": "Gràcia",
+      "contractista": "Rubau Tarrés",
+      "area": "Districte Municipal",
+      "pressupost": "1.980.400,00 €",
+      "tipologia": "Espai Públic",
+      "import": "1.750.800,00 €",
+      "subtipologia": "Carrers",
+      "superficie": "3.250 m²",
+      "descripcio": "Pacificació d'un carrer per convertir-lo en via de prioritat per a vianants amb nou arbrat i mobiliari urbà."
+    },
+    {
+      "projectista": "Harquitectes",
+      "districte": "Sant Martí",
+      "contractista": "Constructora San José",
+      "area": "Gerència d'Ecologia Urbana",
+      "pressupost": "9.350.200,00 €",
+      "tipologia": "Equipaments",
+      "import": "8.760.130,00 €",
+      "subtipologia": "Biblioteques",
+      "superficie": "6.850 m²",
+      "descripcio": "Nova biblioteca pública amb criteris bioclimàtics, espais de co-creació i àrees de lectura exterior integrades amb l'entorn urbà."
+    }
+  ]
+}
