@@ -76,6 +76,14 @@
 
 #pagebreak()
 
+#set page(
+  paper: "a4",
+  margin: (x: 1.5cm, y: 1.5cm),
+  flipped: true,
+   header: rect(fill: aqua.lighten(100%)),
+  footer: rect(fill: aqua.lighten(100%)),
+  number-align: center,
+)
 
 #for registro in registros.projectes {
  image(width: 32%,"logo_BIMSA.jpeg")
@@ -104,3 +112,4 @@ place(
 )
   pagebreak()
 }
+#include "tabla_ref.typ"
